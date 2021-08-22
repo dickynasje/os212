@@ -4,4 +4,4 @@ Public repository of mine for Operating Systems subject in Computer Science majo
 ======
 🠗🠗🠗🠗🠗 Weekly Log Text File 🠗🠗🠗🠗🠗
 
-      [MyLog.TXT](https://dickynasje.github.io/os212/TXT/mylog.txt)
+   [MyLog.TXT](https://dickynasje.github.io/os212/TXT/mylog.txt)
