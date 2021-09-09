@@ -14,3 +14,4 @@ ZCZC W00 15 L83 I love my cat
 ZCZC W00 60 L14 Assignment #04 
 ZCZC W01 05 L10 Assignment #00
 ZCZC W01 60 L11 Assignment #01
+ZCZC W01 45 L12 Assignment #02
