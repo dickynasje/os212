@@ -11,4 +11,7 @@ jika saya lupa.
 2. [Vi Helper](https://www.cs.colostate.edu/helpdocs/vi.html)<br>
 basic basic penggunaan vi
 
+3. [Debian Wiki](https://wiki.debian.org/id/CommandLineInterface)<br>
+its the wiki.
+
 
