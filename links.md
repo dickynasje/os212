@@ -14,4 +14,9 @@ basic basic penggunaan vi
 3. [Debian Wiki](https://wiki.debian.org/id/CommandLineInterface)<br>
 its the wiki.
 
+4. [AWK Tutorial](https://www.tutorialspoint.com/awk/awk_basic_syntax.htm)<br>
+AWK tutorials, awesome, really helpful.
+
+5. [Bash Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)<br>
+Bash helping guide for dummies(me).
 
