@@ -20,3 +20,5 @@ AWK tutorials, awesome, really helpful.
 5. [Bash Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)<br>
 Bash helping guide for dummies(me).
 
+6. [Operating System Concepts](https://www.os-book.com/OS10/slide-dir/)
+Operating System materials
