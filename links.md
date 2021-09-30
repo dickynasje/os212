@@ -22,3 +22,9 @@ Bash helping guide for dummies(me).
 
 6. [Operating System Concepts](https://www.os-book.com/OS10/slide-dir/)
 Operating System materials
+
+7. [Grep Commands](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+Cool Grep command guide
+
+8. [More Grep Commands](https://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/)
+More cool Grep commands
