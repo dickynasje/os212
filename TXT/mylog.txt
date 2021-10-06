@@ -56,3 +56,7 @@ ZCZC W04 40 L13 Assignment #04
 ZCZC W04 05 L18 Assignment #08
 ZCZC W04 20 L19 Assignment #09
 
+ZCZC W05 30 L14 Assignment #04
+ZCZC W05 05 L15 Assignment #05
+ZCZC W05 05 L17 Assignment #07
+ZCZC W05 05 L18 Assignment #08
