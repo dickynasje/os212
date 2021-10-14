@@ -32,3 +32,5 @@ More cool Grep commands
 9. [File Moving, Copying, Renaming](http://ftp.kh.edu.tw/Linux/Redhat/en_6.2/doc/gsg/s1-managing-working-with-files.htm)
 Self explanatory from title, helps if i were to forget
 
+10. [Purpose of fork](https://stackoverflow.com/questions/985051/what-is-the-purpose-of-fork)
+The purpose of forking defined by an experienced user in stackoverflow
