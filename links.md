@@ -34,3 +34,6 @@ Self explanatory from title, helps if i were to forget
 
 10. [Purpose of fork](https://stackoverflow.com/questions/985051/what-is-the-purpose-of-fork)
 The purpose of forking defined by an experienced user in stackoverflow
+
+11. [Synchronization](https://www.wikiwand.com/en/Dining_philosophers_problem)
+"In computer science, the dining philosophers problem is an example problem often used in concurrent algorithm design to illustrate synchronization issues and techniques for resolving them."
