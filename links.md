@@ -37,3 +37,6 @@ The purpose of forking defined by an experienced user in stackoverflow
 
 11. [Synchronization](https://www.wikiwand.com/en/Dining_philosophers_problem)
 "In computer science, the dining philosophers problem is an example problem often used in concurrent algorithm design to illustrate synchronization issues and techniques for resolving them."
+
+12. [LINUX FROM SCRATCH](https://www.linuxfromscratch.org/)
+The savior for this week (week08) assignment
